@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Baba Yatra</string>
+    <string name="dpdp_compliance_title">Data Privacy &amp; Consent</string>
+    <string name="dpdp_compliance_message">In compliance with the Digital Personal Data Protection Act (DPDP), 2023, we require your consent to collect and process your contact information (name, phone number) and location details for the sole purpose of providing cab services. Your data is stored securely and used only for booking management. Do you agree to our Privacy Policy?</string>
+    <string name="privacy_policy_content">Baba Yatra Privacy Policy\n\n1. Data Collection: We collect your name, phone number, and booking locations.\n2. Purpose: To provide and manage taxi services.\n3. Data Protection: We implement reasonable security measures to protect your data.\n4. Your Rights: You can request to view, edit, or delete your booking history at any time through the app settings.\n5. Consent: By using this app, you provide free, specific, and informed consent to process your data as per these terms.</string>
+</resources>

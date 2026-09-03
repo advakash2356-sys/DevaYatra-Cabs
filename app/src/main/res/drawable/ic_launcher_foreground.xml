@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Trident (Trishul) center vertical bar -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M52,30 L56,30 L56,80 L52,80 Z" />
+    <!-- Trident left prong -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,45 C40,45 35,35 35,30 L39,30 C39,35 44,41 54,41 Z" />
+    <!-- Trident right prong -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,45 C68,45 73,35 73,30 L69,30 C69,35 64,41 54,41 Z" />
+</vector>

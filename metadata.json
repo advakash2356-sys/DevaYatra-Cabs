@@ -1,0 +1,6 @@
+{
+  "name": "Baba Yatra",
+  "description": "Pilgrimage and travel cab booking system with an elegant, modern UI suited for the Indian market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

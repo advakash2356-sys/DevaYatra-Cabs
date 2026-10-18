@@ -40,9 +40,6 @@ DevaYatra-Cabs/
 ├── .env.example
 ├── .gitignore
 ├── build.gradle.kts
-├── check_and_fix.py
-├── clean_dashboard.py
-├── fix_*.py / fix_*.sh
 ├── assets/
 │   └── .aistudio/
 └── app/
